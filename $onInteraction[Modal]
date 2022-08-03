@@ -6,3 +6,5 @@ $addButton[no;Part 2;Part 2;success;no]
 $addButton[no;Part 3;Part 3;success;no]
 $addButton[no;Part 4;Part 4;success;no]
 $removeComponent[Modal]
+
+BDScript
