@@ -1,0 +1,9 @@
+$nomention
+$newModal[StaffApply2;Apply as staff member!]
+$addTextInput[text-6;paragraph;Do you have expierence as staff?;1;2000]
+$addTextInput[text-7;paragraph;Why you want to become staff here?;1;2000]
+$addTextInput[text-8;paragraph;What makes you different then other staff?;1;4000]
+$addTextInput[text-9;paragraph;Do you have any special ability?;1;3000]
+$addTextInput[text-10;paragraph;What will you do if user spams nonstop?;1;1000]
+
+BDScript
