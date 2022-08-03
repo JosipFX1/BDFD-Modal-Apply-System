@@ -1,0 +1,16 @@
+$nomention
+$channelSendMessage[977495036835004450;Application from $username#$discriminator[$authorID] (Part 3)
+
+11. Question: In what servers are you staff in?
+A: $input[text-11]
+12. Question: What can you say about our server?
+A: $input[text-12]
+13. Question: Tell us more about you
+A: $input[text-13]
+14. Question: If we were getting raided what would you do?
+A: $input[text-14]
+15. Question: Do you want to suggest something for server?
+A: $input[text-15]]
+$editButton[Part 3;Part 3;success;yes]
+
+BDScript 2
