@@ -1,0 +1,9 @@
+$nomention
+$newModal[StaffApply;Apply as staff member!]
+$addTextInput[text-1;short;What's your name?;1;50]
+$addTextInput[text-2;short;How old are you?;1;5]
+$addTextInput[text-3;short;Your discord name and tag?;1;100]
+$addTextInput[text-4;short;How often are you online on discord?;1;200]
+$addTextInput[text-5;short;How much time you can spend on our server?;1;200]
+
+BDScript
