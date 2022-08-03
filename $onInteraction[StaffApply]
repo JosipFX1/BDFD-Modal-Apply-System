@@ -1,0 +1,16 @@
+$nomention
+$channelSendMessage[977495036835004450;Application from $username#$discriminator[$authorID] (Part 1)
+
+1. Question: What's your name?
+A: $input[text-1]
+2. Question: How old are you?
+A: $input[text-2]
+3. Question: Your discord name and tag?
+A: $input[text-3]
+4. Question: How often are you online on discord?
+A: $input[text-4]
+5. Question: How much time you can spend on our server?
+A: $input[text-5]]
+$editButton[Part 1;Part 1;success;yes]
+
+BDScript 2 !
