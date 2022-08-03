@@ -1,0 +1,16 @@
+$nomention
+$channelSendMessage[977495036835004450;Application from $username#$discriminator[$authorID] (Part 4)
+
+16. Question: What would you do if user swears?
+A: $input[text-16]
+17. Question: What'll you do if staff is misbehaving?
+A: $input[text-17]
+18. Question: How'll you manage chat?
+A: $input[text-18]
+19. Question: How'll you be formal like at everywhere?
+A: $input[text-19]
+20. Question: How'll you greet user if he/she opens ticket?
+A: $input[text-20]]
+$editButton[Part 4;Part 4;success;yes]
+
+BDScript 2
