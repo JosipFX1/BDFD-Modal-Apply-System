@@ -1,0 +1,9 @@
+$nomention
+$newModal[StaffApply3;Apply as staff member!]
+$addTextInput[text-11;paragraph;In what servers are you staff in?;1;2000]
+$addTextInput[text-12;paragraph;What can you say about our server?;1;4000]
+$addTextInput[text-13;paragraph;Tell us more about you;1;4000]
+$addTextInput[text-14;paragraph;If we were getting raided what would you do?;1;3000]
+$addTextInput[text-15;paragraph;Do you want to suggest something for server?;1;3000]
+
+BDScript
