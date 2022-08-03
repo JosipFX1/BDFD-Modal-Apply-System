@@ -1,0 +1,11 @@
+$nomention
+$c[Made by JosipFX#4668 do not remove credits!]
+$description[This is simple modal system]
+$color[$random[00000;99999]]
+$addTimestamp
+$thumbnail[$serverIcon]
+$footer[Made by JosipFX#4668]
+$footerIcon[$authorAvatar]
+$addButton[no;Modal;Apply as staff;success;no;<a:staff1:977648484473782362>]
+
+This is BDScript !
