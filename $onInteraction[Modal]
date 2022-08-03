@@ -1,0 +1,8 @@
+$nomention
+$ephemeral
+$description[To apply as staff press part 1 then part 2,part 3 and finally part 4!]
+$addButton[no;Part 1;Part 1;success;no]
+$addButton[no;Part 2;Part 2;success;no]
+$addButton[no;Part 3;Part 3;success;no]
+$addButton[no;Part 4;Part 4;success;no]
+$removeComponent[Modal]
