@@ -1,0 +1,16 @@
+$nomention
+$channelSendMessage[977495036835004450;Application from $username#$discriminator[$authorID] (Part 2)
+
+6. Question: Do you have expierence as staff?
+A: $input[text-6]
+7. Question: Why you want to become staff here?
+A: $input[text-7]
+8. Question: What makes you different then other staff?
+A: $input[text-8]
+9. Question: Do you have any special ability?
+A: $input[text-9]
+10. Question: What will you do if user spams nonstop?
+A: $input[text-10]]
+$editButton[Part 2;Part 2;success;yes]
+
+BDScript 2
